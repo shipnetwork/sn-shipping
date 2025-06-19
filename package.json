@@ -1,20 +1,20 @@
 {
   "name": "sn-shipping-calculator",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ShipNetwork Calculator - A TypeScript calculator for shipping and fulfillment costs",
-  "homepage": "https://github.com/YOUR_USERNAME/sn-shipping#readme",
+  "homepage": "https://github.com/shipnetwork/sn-shipping#readme",
   "license": "ISC",
   "keywords": ["shipping", "calculator", "fulfillment", "webflow", "finsweet"],
   "author": {
-    "name": "Your Name",
-    "url": "https://your-website.com/"
+    "name": "ShipNetwork",
+    "url": "https://shipnetwork.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_USERNAME/sn-shipping.git"
+    "url": "git+https://github.com/shipnetwork/sn-shipping.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/sn-shipping/issues"
+    "url": "https://github.com/shipnetwork/sn-shipping/issues"
   },
   "type": "module",
   "main": "dist/index.js",
